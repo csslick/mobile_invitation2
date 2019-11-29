@@ -37,7 +37,7 @@ body {
   padding-bottom: 24px;
   margin-bottom: 24px;
   border-bottom: 1px solid #1b1b1b;
-  margin-left: 309px;
+  margin-left: calc(100% - 44px);
 }
 #main_header .name { 
   font-size: 22px;
